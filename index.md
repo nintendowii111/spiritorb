@@ -1,4 +1,4 @@
-!(/launch_image.png)
+![Tux, the Linux mascot](/launch_image.png)
 <h1>Project: SpiritOrb</h1>	
 
 
