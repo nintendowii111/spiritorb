@@ -97,14 +97,8 @@
 **[PC Version](https://gamejolt.com/games/projectspiritorb/202215)**.
 <p>PC version not updated</p>
 
-<html><head>
-      <meta charset="utf-8">
-      <meta name="viewport" content="width=device-width">
-      <title>Privacy Policy</title>
-      <style> body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:1em; } </style>
-    </head>
-    <body>
-    <h2>Privacy Policy</h2> <p>
+
+<h2>Privacy Policy</h2> <p>
                     Michael Duncan built the SpiritOrb app as
                     a Free app. This SERVICE is provided by
                     Michael Duncan at no cost and is intended for
