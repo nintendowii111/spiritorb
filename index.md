@@ -92,10 +92,6 @@
 <ul>
 <li>Base game</li>
 </ul>
-
-
-**[PC Version](https://gamejolt.com/games/projectspiritorb/202215)**.
-<p>PC version not updated</p>
 <h2>Privacy Policy</h2> <p>
                     Michael Duncan built the SpiritOrb app as
                     a Free app. This SERVICE is provided by
