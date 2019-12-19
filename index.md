@@ -12,7 +12,7 @@
 
 <h2>Controls (iOS)</h2>
 <p>The User Interface is setup with tradiontal console controls. A D-Pad is to the left and "A" "B" keys to the right.</p>
-<p>When in a menu (without console buttons) double tapping with two fingers brings you back OR pressing with one finger and tapping with a second!.</p>
+<p>When in a menu (without console buttons) double tapping with two fingers brings you back OR pressing with one finger and tapping with a second!</p>
 
 
 
@@ -96,8 +96,6 @@
 
 **[PC Version](https://gamejolt.com/games/projectspiritorb/202215)**.
 <p>PC version not updated</p>
-
-
 <h2>Privacy Policy</h2> <p>
                     Michael Duncan built the SpiritOrb app as
                     a Free app. This SERVICE is provided by
