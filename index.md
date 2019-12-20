@@ -95,6 +95,33 @@
 <ul>
 <li>Base game</li>
 </ul>
+
+<h2>Credits (May Change)</h2>
+<h4>Plugin Credits</h4>
+
+<ul>
+<li>Quxios - QABS & Q-based Plugins</li>
+<li>SumRndmDde - SRD Plugins</li>
+<li>Christian Schicho Fullscreen Plugin</li>
+<li>Yanfly Engine Plugins - YEP based Plugins</li>
+<li>Masked - MBS based Plugins</li>
+<li>Fallen Angel Olivia - MapDisplay Plugin</li>
+<li>Companion Wulf - CustomTitle Plugin</li>
+<li>Ventiqu-2016 - SplashScreen Plugin (Unused)</li>
+<li>Aloe Guvner - Mobile Virtualbuttons</li>
+<li>Iavra - TextsSound & SaveSystem</li>
+</ul>
+<h4>Art Credits</h4>
+<li>Kadokawa - Art & Assets</li>
+<li>finalbossblues - Ashlands Tileset</li>
+<h4>Music credits includes work from individuals that may or may not be used
+</h4>
+<li>Aaron Krogh</li>
+<li>Benjamin Carr</li>
+<li>Darren Curtis</li>
+<li>Jeremiah "McTricky" George</li>
+<li>Cyber Rainforce</li>
+
 <h2>Privacy Policy</h2> <p>
                     Michael Duncan built the SpiritOrb app as
                     a Free app. This SERVICE is provided by
