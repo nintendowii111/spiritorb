@@ -14,9 +14,6 @@
 <p>The User Interface is setup with tradiontal console controls. A D-Pad is to the left and "A" "B" keys to the right.</p>
 <p>When in a menu (without console buttons) double tapping with two fingers brings you back OR pressing with one finger and tapping with a second!</p>
 <br>
-<br>
-
-
 <h2>Changelog</h2>
 
 <h4>v0.7.0</h4>
@@ -97,7 +94,6 @@
 <li>Base game</li>
 </ul>
 <br>
-<br>
 <h2>Credits (May Change)</h2>
 <h4>Plugin Credits</h4>
 
@@ -116,6 +112,8 @@
 <h4>Art Credits</h4>
 <li>Kadokawa - Art & Assets</li>
 <li>finalbossblues - Ashlands Tileset</li>
+<li><a href="https://www.deviantart.com/brassdragonlord">BrassDragonLord - Appicon</a>
+</li>
 <h4>Music credits includes work from individuals that may or may not be used
 </h4>
 <li>Aaron Krogh</li>
@@ -124,9 +122,6 @@
 <li>Jeremiah "McTricky" George</li>
 <li>Cyber Rainforce</li>
 <br>
-<br>
-
-
 <h2>Privacy Policy</h2> <p>
                     Michael Duncan built the SpiritOrb app as
                     a Free app. This SERVICE is provided by
