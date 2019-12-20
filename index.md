@@ -121,8 +121,11 @@
 <li>Darren Curtis</li>
 <li>Jeremiah "McTricky" George</li>
 <li>Cyber Rainforce</li>
+<br>
+<br>
+<br>
+<br>
 
-&emsp;
 
 <h2>Privacy Policy</h2> <p>
                     Michael Duncan built the SpiritOrb app as
