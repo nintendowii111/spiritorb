@@ -3,23 +3,13 @@
 
 <p>SpiritOrb is an action RPG game for iOS made with RPG Maker MV.</p>
 
-<div class="image123">
-    <div class="imgContainer">
-        <img src="/launch_image.pngf"/ height="200" width="200"/>
-        <p>This is image 1</p>
-    </div>
-    <div class="imgContainer">
-        <img class="middle-img" src="/20191220_051748000_iOS.png"/ height="200" width="200"/>
-        <p>This is image 2</p>
-    </div>
-    <div class="imgContainer">
-         <img src="/20191220_051854000_iOS.png"/ height="200" width="200"/>
-        <p>This is image 3</p>
-    </div>
-</div>
+![Launch image of game](/launch_image.png)
+
+![metaimage1](/20191220_051748000_iOS.png)
 
 
-![metaimage3](/20191220_052403000_iOS.png)
+
+
 
 <h2>Controls (iOS)</h2>
 <p>The User Interface is setup with tradiontal console controls. A D-Pad is to the left and "A" "B" keys to the right.</p>
@@ -104,6 +94,9 @@
 <ul>
 <li>Base game</li>
 </ul>
+
+![metaimage2](/20191220_051854000_iOS.png)
+
 <br>
 <h2>Credits (May Change)</h2>
 <h4>Plugin Credits</h4>
@@ -133,6 +126,9 @@
 <li>Jeremiah "McTricky" George</li>
 <li>Cyber Rainforce</li>
 <br>
+
+![metaimage3](/20191220_052403000_iOS.png)
+
 <h2>Privacy Policy</h2> <p>
                     Michael Duncan built the SpiritOrb app as
                     a Free app. This SERVICE is provided by
