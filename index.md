@@ -13,7 +13,8 @@
 <h2>Controls (iOS)</h2>
 <p>The User Interface is setup with tradiontal console controls. A D-Pad is to the left and "A" "B" keys to the right.</p>
 <p>When in a menu (without console buttons) double tapping with two fingers brings you back OR pressing with one finger and tapping with a second!</p>
-
+<br>
+<br>
 
 
 <h2>Changelog</h2>
@@ -95,7 +96,8 @@
 <ul>
 <li>Base game</li>
 </ul>
-
+<br>
+<br>
 <h2>Credits (May Change)</h2>
 <h4>Plugin Credits</h4>
 
@@ -121,8 +123,6 @@
 <li>Darren Curtis</li>
 <li>Jeremiah "McTricky" George</li>
 <li>Cyber Rainforce</li>
-<br>
-<br>
 <br>
 <br>
 
