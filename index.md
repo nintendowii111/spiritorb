@@ -7,8 +7,7 @@
 
 ![metaimage1](/20191220_051748000_iOS.png)
 
-
-
+![metaimage1](/20191220_053107000_iOS.jpg)
 
 
 <h2>Controls (iOS)</h2>
