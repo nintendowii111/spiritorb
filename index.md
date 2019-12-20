@@ -18,6 +18,9 @@
 
 <h2>Changelog</h2>
 
+<h4>v0.7.0</h4>
+<li>TestFlight Preparation</li>
+
 <h4>v0.6.3a</h4>
 
 <ul>
