@@ -122,6 +122,21 @@
 <li>Jeremiah "McTricky" George</li>
 <li>Cyber Rainforce</li>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h2>Privacy Policy</h2> <p>
                     Michael Duncan built the SpiritOrb app as
                     a Free app. This SERVICE is provided by
