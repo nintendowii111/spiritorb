@@ -2,10 +2,3 @@ theme: jekyll-theme-midnight
 title: SpiritOrb
 date: 12/20/2019
 featured-img: "/title.png"
-
-<article>
-  {% if page.feature-img %}
-    <img class="feature-image" src={{ page.feature-img }} alt="Feature Image"/>
-  {% endif %}
-  <section class="post-content">{{ content }}</section>
-</article>
