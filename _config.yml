@@ -1,5 +1,5 @@
 theme: jekyll-theme-midnight
-layout: notitle
+layout: no-title
 title: SpiritOrb
 date: 12/20/2019
 featured-img: "/title.png"
