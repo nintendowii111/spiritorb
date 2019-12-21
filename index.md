@@ -1,4 +1,9 @@
-
+<article>
+  {% if page.feature-img %}
+    <img class="feature-image" src={{ page.feature-img }} alt="Feature Image"/>
+  {% endif %}
+  <section class="post-content">{{ content }}</section>
+</article>
 
 <p>SpiritOrb is an action RPG game for iOS made with RPG Maker MV.</p>
 
