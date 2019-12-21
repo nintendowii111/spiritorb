@@ -1,6 +1,6 @@
 <article>
   {% if page.feature-img %}
-    <img class="feature-image" src={{ page.feature-img }} alt="Feature Image"/>
+    <img class="feature-image" src={{ /title.png }} alt="Feature Image"/>
   {% endif %}
   <section class="post-content">{{ content }}</section>
 </article>
