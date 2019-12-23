@@ -3,9 +3,9 @@
 
 SpiritOrb is an action RPG game for iOS made with RPG Maker MV.
 
-![metaimage1](/20191220_051748000_iOS.png)
+![metaimage2](/20191220_051748000_iOS.png)
 
-![metaimage1](/20191220_053107000_iOS.jpg)
+![metaimage3](/20191220_053107000_iOS.jpg)
 
 
 <h2>Controls (iOS)</h2>
