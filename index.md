@@ -111,17 +111,20 @@ SpiritOrb is an action RPG game for iOS made with RPG Maker MV.
 <li>Iavra - TextsSound & SaveSystem</li>
 </ul>
 <h4>Art Credits</h4>
+<ul>
 <li>Kadokawa - Art & Assets</li>
 <li>finalbossblues - Ashlands Tileset</li>
-<li><a href="https://www.deviantart.com/brassdragonlord">BrassDragonLord - Appicon</a>
-</li>
-<h4>Music credits includes work from individuals that may or may not be used
-</h4>
+<li><a href="https://www.deviantart.com/brassdragonlord">BrassDragonLord - Appicon</a></li>
+</ul>
+<h4>Music credits includes work from individuals that may or may not be used</h4>
+<ul>
 <li>Aaron Krogh</li>
 <li>Benjamin Carr</li>
 <li>Darren Curtis</li>
 <li>Jeremiah "McTricky" George</li>
 <li>Cyber Rainforce</li>
+</ul>
+
 <br>
 
 ![metaimage3](/20191220_052403000_iOS.png)
