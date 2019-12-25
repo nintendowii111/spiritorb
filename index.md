@@ -99,7 +99,7 @@
 <li>Base game</li>
 </ul>
 
-![metaimage2](/20191220_051854000_iOS.png)
+![metaimage4](/20191220_051854000_iOS.png)
 
 <br>
 <h2>Credits (May Change)</h2>
@@ -134,7 +134,8 @@
 
 <br>
 
-![metaimage3](/20191220_052403000_iOS.png)
+![metaimage5](/20191220_052403000_iOS.png)
+
 <p>Please note that I am not a lawyer. I am an ameature iOS developer simply looking to test and host my free app on the Apple AppStore. If their are any errors or issues with this Privacy Policy, please understand my situation. Thank you!<p>
 
 <h2>Privacy Policy</h2> <p>
