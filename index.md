@@ -4,6 +4,8 @@
 
 <h1 style="text-align:center"><a href="https://testflight.apple.com/join/b25OmrY6">Try the Beta!</a></h1>
 
+<br>
+
 ![metaimage2](/20191220_051748000_iOS.png)
 
 ![metaimage3](/20191220_053107000_iOS.jpg)
