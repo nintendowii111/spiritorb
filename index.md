@@ -2,7 +2,7 @@
 
 <h2 style="text-align:center">SpiritOrb is an action RPG game for iOS made with RPG Maker MV.</h2>
 
-<br>
+
 
 <h1 style="text-align:center"><a href="https://testflight.apple.com/join/b25OmrY6">Try the Beta!</a></h1>
 
