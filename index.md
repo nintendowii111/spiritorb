@@ -12,7 +12,7 @@
 
 ![metaimage3](/20191220_053107000_iOS.jpg)
 
-
+<div style="background-image: url('launch.png');">
 
 <h2>Controls (iOS)</h2>
 
