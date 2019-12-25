@@ -1,4 +1,5 @@
-<img align="top" src="/output-onlinepngtools.png" alt="Title">
+![metaimage1](/title.png)
+
 
 <h3 style="text-align:center">SpiritOrb is an action RPG game for iOS made with RPG Maker MV.<h3>
 
