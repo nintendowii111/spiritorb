@@ -8,9 +8,9 @@
 
 ![metaimage2](/20191220_051748000_iOS.png)
 
-![metaimage3](/20191220_053107000_iOS.jpg)
-
 ![metaimage7](/20191220_052501000_iOS.png)
+
+![metaimage3](/20191220_053107000_iOS.jpg)
 
 <h2>Controls (iOS)</h2>
 
@@ -102,6 +102,8 @@
 </ul>
 
 ![metaimage4](/20191220_051854000_iOS.png)
+
+![metaimage8](/20191220_052133000_iOS.png)
 
 <br>
 
