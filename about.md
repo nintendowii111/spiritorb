@@ -1,5 +1,5 @@
 ---
-layout: /_layouts/default.html
+layout: default
 title: "Privacy Policy"
 permalink: /privacypolicy
 ---
