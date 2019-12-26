@@ -139,4 +139,4 @@
 
 ![metaimage5](/20191220_052403000_iOS.png)
 
-<small><a style="text-align:left;" href="https://www.spiritorbgame.com/privacypolicy">Privacy Policy</a><small>
+<small style="text-align:left;"><a href="https://www.spiritorbgame.com/privacypolicy">Privacy Policy</a></small>
