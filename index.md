@@ -103,8 +103,6 @@
 
 ![metaimage4](/20191220_051854000_iOS.png)
 
-![metaimage8](/20191220_052133000_iOS.png)
-
 <br>
 
 <h2>Credits (May Change)</h2>
