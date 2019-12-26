@@ -137,8 +137,6 @@
 
 <a href="https://github.com/mattgraham/midnight/blob/master/LICENCE">Web Jekyll theme by Matt Graham</a>
 
-<br>
-
 ![metaimage5](/20191220_052403000_iOS.png)
 
-<small><a href="https://www.spiritorbgame.com/privacypolicy">Privacy Policy</a><small>
+<small><a style="text-align:left;" href="https://www.spiritorbgame.com/privacypolicy">Privacy Policy</a><small>
