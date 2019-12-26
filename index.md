@@ -134,10 +134,8 @@
 <li>Jeremiah "McTricky" George</li>
 <li>Cyber Rainforce</li>
 </ul>
-<h4>Website Credit</h4>
-<ul>
-<li><a href="https://github.com/mattgraham/midnight/blob/master/LICENCE">Jekyll theme by Matt Graham</a></li>
-</ul>
+
+<a href="https://github.com/mattgraham/midnight/blob/master/LICENCE">Web Jekyll theme by Matt Graham</a>
 
 <br>
 
