@@ -139,6 +139,10 @@
 
 <a href="https://github.com/mattgraham/midnight/blob/master/LICENCE">Web Jekyll theme by Matt Graham</a>
 
+<h4>(Rough Draft) Project Map</h4>
+
+![metaimage3](/MAIN_MAP.png)
+
 ![metaimage5](/20191220_052403000_iOS.png)
 
 ![metaimage6](/20191220_051820000_iOS.png)
