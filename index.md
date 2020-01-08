@@ -6,7 +6,7 @@
 
 <br>
 
-<iframe src="https://widgets.gamejolt.com/package/v1?key=GqthdwVF" frameborder="0" width="400" height="210" align="middle"></iframe>
+<iframe align="center" src="https://widgets.gamejolt.com/package/v1?key=GqthdwVF" frameborder="0" width="400" height="210"></iframe>
 
 <br>
 
