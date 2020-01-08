@@ -4,7 +4,9 @@
 
 <h1 style="text-align:center"><a href="https://testflight.apple.com/join/b25OmrY6">Try the Beta!</a></h1>
 
-<h3 style="text-align:center"><a href="https://gamejolt.com/games/projectspiritorb/202215">Play in Browser!(PC)</a></h3>
+<br>
+
+<h3 style="text-align:center"><a href="https://gamejolt.com/games/projectspiritorb/202215">Play in Browser! (PC)</a></h3>
 
 <br>
 
