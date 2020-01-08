@@ -7,7 +7,7 @@
 <br>
 
 <div style="text-align:center">
-    <iframe height="210" width="400" src="https://widgets.gamejolt.com/package/v1?key=GqthdwVF" frameborder="1"></iframe>
+    <iframe height="210" width="350" src="https://widgets.gamejolt.com/package/v1?key=GqthdwVF" frameborder="0"></iframe>
 </div>
 
 <br>
