@@ -6,7 +6,7 @@
 
 <br>
 
-<h3 style="text-align:center"><a href="https://gamejolt.com/games/projectspiritorb/202215">Play in Browser! (PC)</a></h3>
+<iframe src="https://widgets.gamejolt.com/package/v1?key=GqthdwVF" frameborder="0" width="500" height="245"></iframe>
 
 <br>
 
