@@ -4,6 +4,8 @@
 
 <h1 style="text-align:center"><a href="https://testflight.apple.com/join/b25OmrY6">Try the Beta!</a></h1>
 
+<h3 style="text-align:center"><a href="https://gamejolt.com/games/projectspiritorb/202215">Play in Browser!(PC)</a></h3>
+
 <br>
 
 ![metaimage2](/20191220_051748000_iOS.png)
@@ -20,6 +22,20 @@
 
 
 <h2>Changelog</h2>
+
+<h4>v0.7.9</h4>
+<ul>
+<li>Added New Enemy-Ghost</li>
+<li>Added New Enemy-Skele</li>
+<li>Added phases to Boss1 Battle</li>
+<li>Added new Leveling system</li>
+<li>Adjusted in-game Menus</li>
+<li>Adjusted weopon values</li>
+<li>Adjusted Exp parameters</li>
+<li>Adjusted Exp gained from enemies</li>
+<li>Added Fade effect when closing menus</li>
+<li>Added ability to reload save upon gameover</li>
+</ul>
 
 <h4>v0.7.0</h4>
 <ul>
