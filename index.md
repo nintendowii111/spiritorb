@@ -146,15 +146,19 @@
 <ul>
 <li>Kadokawa - Art & Assets</li>
 <li>finalbossblues - Ashlands Tileset</li>
+<li>FSM woods and cave tiles Pack by REFMAP, Publisher - DEGICA Co., LTD</li>
 <li><a href="https://www.deviantart.com/brassdragonlord">BrassDragonLord - Appicon</a></li>
 </ul>
-<h4>Music credits includes work from individuals that may or may not be used</h4>
+<h4>Music Credits</h4>
 <ul>
-<li>Aaron Krogh</li>
-<li>Benjamin Carr</li>
-<li>Darren Curtis</li>
+<li>Benjamin Carr - Aqua Fort, A sinister place (waiting for confirmation)</li>
+<li>Aaron Krogh - The lonely Amazon</li>
+<li>Murray Atkinson CT_Nina, CT_Yaichi</li>
 <li>Jeremiah "McTricky" George</li>
-<li>Cyber Rainforce</li>
+<li>Cyber Rainforce - flip a coin</li>
+<li>@davidvitas - Overworld, Title</li>
+<li>Darren Curtis - Timeless Ruins, Laybrinth of Lost Dreams, Drifting through space, Fireside tales</li>
+<li>FULMINIS-ICTUS - Embarking on an Epic Journey, Eastern Winds, Drama</li>
 </ul>
 
 <a href="https://github.com/mattgraham/midnight/blob/master/LICENCE">Web Jekyll theme by Matt Graham</a>
