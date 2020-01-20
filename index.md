@@ -16,7 +16,7 @@
 
 ![metaimage8](/meta_1.png)
 
-![metaimage7](/20191220_052501000_iOS.png)
+![metaimage7](/meta_7.png)
 
 ![metaimage3](/20191220_053107000_iOS.jpg)
 
@@ -185,7 +185,7 @@
 
 ![metaimage3](/MAIN_MAP.png)
 
-![metaimage5](/20191220_052403000_iOS.png)
+![metaimage5](/meta_3.png)
 
 ![metaimage6](/20191220_051820000_iOS.png)
 
