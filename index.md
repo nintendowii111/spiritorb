@@ -14,9 +14,7 @@
 
 ![metaimage2](/20191220_051748000_iOS.png)
 
-![metaimage8](/meta_1.png)
 
-![metaimage7](/meta_7.png)
 
 ![metaimage10](/meta_8.png)
 
@@ -189,7 +187,9 @@
 
 ![metaimage5](/meta_3.png)
 
+![metaimage8](/meta_1.png)
 
+![metaimage7](/meta_7.png)
 
 ![metaimage6](/20191220_051820000_iOS.png)
 
