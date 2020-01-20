@@ -20,7 +20,7 @@
 
 <h2>Controls (iOS)</h2>
 
-<p>The User Interface is setup with tradiontal console controls. A D-Pad is to the left and "A" "B" keys to the right.</p>
+<p>The User Interface is setup with tradiontal console controls. A New Circle-Pad is to the left and "A" "B" keys to the right.</p>
 <p>When in a menu (without console buttons) double tapping with two fingers brings you back OR pressing with one finger and tapping with a second!</p>
 
 
@@ -38,6 +38,8 @@
 <li>Added new Potion</li>
 <li>Adjusted Boss Battle 1</li>
 <li>Added new music</li>
+<li>Fixed bug where the entire game window could be scrolled by the user</li>
+<li>Added Splash Screen</li>
 </ul>
 
 <h4>v0.7.9</h4>
@@ -136,7 +138,9 @@
 
 ![metaimage4](/20191220_051854000_iOS.png)
 
-![metaimage8](/20191220_052133000_iOS.png)
+![metaimage8](/meta_1.png)
+
+![metaimage9](/meta_2.png)
 
 <br>
 
