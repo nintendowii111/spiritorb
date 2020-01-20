@@ -14,6 +14,8 @@
 
 ![metaimage2](/20191220_051748000_iOS.png)
 
+![metaimage8](/meta_1.png)
+
 ![metaimage7](/20191220_052501000_iOS.png)
 
 ![metaimage3](/20191220_053107000_iOS.jpg)
@@ -138,7 +140,6 @@
 
 ![metaimage4](/20191220_051854000_iOS.png)
 
-![metaimage8](/meta_1.png)
 
 ![metaimage9](/meta_2.png)
 
