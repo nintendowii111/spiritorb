@@ -14,7 +14,7 @@
 
 ![metaimage2](/20191220_051748000_iOS.png)
 
-
+![metaimage4](/20191220_051854000_iOS.png)
 
 ![metaimage10](/meta_8.png)
 
@@ -138,7 +138,7 @@
 <li>Base game</li>
 </ul>
 
-![metaimage4](/20191220_051854000_iOS.png)
+![metaimage11](/meta_11.png)
 
 
 ![metaimage9](/meta_5.png)
