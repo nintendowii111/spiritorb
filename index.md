@@ -138,10 +138,9 @@
 <li>Base game</li>
 </ul>
 
-![metaimage11](/meta_11.png)
-
-
 ![metaimage9](/meta_5.png)
+
+![metaimage11](/meta_11.png)
 
 <br>
 
@@ -188,6 +187,8 @@
 ![metaimage5](/meta_3.png)
 
 ![metaimage8](/meta_1.png)
+
+![metaimage8](/meta_10.png)
 
 ![metaimage7](/meta_7.png)
 
