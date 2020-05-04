@@ -6,15 +6,9 @@
 
 <br>
 
-<div style="text-align:center">
-    <iframe height="210" width="350" src="https://widgets.gamejolt.com/package/v1?key=GqthdwVF" frameborder="0"></iframe>
-</div>
+
 
 <br>
-
-![metaimage2](/20191220_051748000_iOS.png)
-
-![metaimage4](/20191220_051854000_iOS.png)
 
 ![metaimage10](/meta_8.png)
 
@@ -187,11 +181,3 @@
 ![metaimage5](/meta_3.png)
 
 ![metaimage8](/meta_1.png)
-
-![metaimage7](/meta_7.png)
-
-![metaimage8](/meta_11.png)
-
-![metaimage6](/20191220_051820000_iOS.png)
-
-![metaimage7](/20191220_051831000_iOS.png)
