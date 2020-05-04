@@ -6,10 +6,6 @@
 
 <br>
 
-
-
-<br>
-
 ![metaimage10](/meta_8.png)
 
 ![metaimage3](/20191220_053107000_iOS.jpg)
