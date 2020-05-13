@@ -5,7 +5,7 @@
 <h1 style="text-align:center"><a href="https://testflight.apple.com/join/b25OmrY6">Try the iOS TestFlight!</a></h1>
 
 <br>
-![metaimage10](/meta_launch.png)
+![metaimage99](/meta_launch.png)
 
 ![metaimage10](/meta_8.png)
 
