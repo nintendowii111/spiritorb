@@ -15,7 +15,9 @@
 <p>The User Interface is setup with tradiontal console controls. A New Circle-Pad is to the left and "A" "B" keys to the right.</p>
 <p>When in a menu (without console buttons) double tapping with two fingers brings you back OR pressing with one finger and tapping with a second!</p>
 
+![metaimage5](/meta_3.png)
 
+![metaimage8](/meta_1.png)
 
 <h2>Changelog</h2>
 
@@ -173,7 +175,3 @@
 <h2 style="text-align:center">(Rough Draft) Project Map</h2>
 
 ![metaimage3](/MAIN_MAP.png)
-
-![metaimage5](/meta_3.png)
-
-![metaimage8](/meta_1.png)
