@@ -55,6 +55,8 @@
 <li>TestFlight Preparation</li>
 </ul>
 
+<a href="https://www.spiritorbgame.com/changelog">Full Changelog</a>
+
 ![metaimage9](/meta_5.png)
 
 ![metaimage11](/meta_10.png)
