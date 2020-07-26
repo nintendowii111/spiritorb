@@ -10,10 +10,7 @@
 
 <br>
 
-<h2 style="text-align:center">Prepare for an Adventure!</h2>
-
-<p>Embark on an unknown adventure in a land to find the SpiritOrbs </p>
-<p>which hold power that no-one has ever been able to acquire.</p>
+<h2 style="text-align:center">Embark on an unknown adventure in a land to find the SpiritOrbs which hold power that no-one has ever been able to acquire.</h2>
 
 <br>
 
@@ -62,7 +59,12 @@
 <a href="https://www.spiritorbgame.com/changelog">Full Changelog</a>
 
 ![metaimage10](/pic3.jpg)
+
 <br>
+<br>
+<br>
+<br>
+
 ![metaimage8](/pic4.jpg)
 
 
