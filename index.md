@@ -15,9 +15,11 @@
 <p>Embark on an unknown adventure in a land to find the SpiritOrbs </p>
 <p>which hold power that no-one has ever been able to acquire.</p>
 
+<br>
+
 ![metaimage11](/pic1.jpg)
 
-
+<br>
 
 
 
@@ -100,6 +102,10 @@
 
 <a href="https://github.com/mattgraham/midnight/blob/master/LICENCE">Web Jekyll theme by Matt Graham</a>
 
+<br>
+
 ![metaimage5](/pic3.jpg)
+
+<br>
 
 ![metaimage8](/pic4.jpg)
