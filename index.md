@@ -8,6 +8,7 @@
 
 ![metaimage12](/meta_launch.png)
 
+<br>
 
 <h2 style="text-align:center">Prepare for an Adventure!</h2>
 
