@@ -9,8 +9,7 @@
 ![metaimage12](/meta_launch.png)
 
 
-
-<h2>Prepare for an Adventure!</h2>
+<h2 style="text-align:center">Prepare for an Adventure!</h2>
 
 <p>Embark on an unknown adventure in a land to find the SpiritOrbs </p>
 <p>which hold power that no-one has ever been able to acquire.</p>
