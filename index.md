@@ -84,11 +84,11 @@
 <li>RM CoreScript Team - Engine + Community Plugin</li>
 <li>Moghunter - ActorHUD Plugin</li>
 <li><a href="https://bmscripts.weebly.com/">Blackmorning - EquipCore</a></li>
-<li>BallgameStudios.com - MenusCancelCommand</li>
+<li><a href="https://ballgamestudios.com/">BallgameStudios.com - MenusCancelCommand</a></li>
 <li>MushroomCake28 - Launch Plugin</li>
 <li>Magnus0808 - Single Actor System</li>
 <li>Michael Morris - VersionDisplay</li>
-<li>Squriting Elephant - SE_plugins</li>
+<li>Squirting Elephant - SE_plugins</li>
 <li>GALV - GALV_plugins</li>
 <li>dismal_science__ and caethyril - zHUD</li>
 <li>RPG Maker - Irina - Performance Plugin</li>
