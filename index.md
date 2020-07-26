@@ -58,12 +58,13 @@
 
 <a href="https://www.spiritorbgame.com/changelog">Full Changelog</a>
 
+<br>
+
 ![metaimage10](/pic3.jpg)
 
 <br>
 <br>
-<br>
-<br>
+
 
 ![metaimage8](/pic4.jpg)
 
