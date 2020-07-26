@@ -10,14 +10,14 @@
 
 
 
-<h2>Prepare for an Adventure! (iOS)</h2>
+<h2>Prepare for an Adventure!</h2>
 
 <p>Embark on an unknown adventure in a land to find the SpiritOrbs </p>
 <p>which hold power that no-one has ever been able to acquire.</p>
 
 ![metaimage11](/pic1.jpg)
 
-![metaimage10](/pic2.jpg)
+
 
 
 
@@ -59,8 +59,7 @@
 
 <a href="https://www.spiritorbgame.com/changelog">Full Changelog</a>
 
-![metaimage5](/pic3.jpg)
-
+![metaimage10](/pic2.jpg)
 
 
 <br>
@@ -100,5 +99,7 @@
 </ul>
 
 <a href="https://github.com/mattgraham/midnight/blob/master/LICENCE">Web Jekyll theme by Matt Graham</a>
+
+![metaimage5](/pic3.jpg)
 
 ![metaimage8](/pic4.jpg)
