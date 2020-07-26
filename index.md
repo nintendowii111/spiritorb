@@ -18,13 +18,18 @@
 
 <br>
 
-
-
 <h2>Changelog</h2>
+<h4>v0.9.0 (TestFlight 1.4)</h4>
+<li>Coming Soon</li>
+
+<h4>v0.8.6 (TestFlight 1.3.0.3)</h4>
+<ul>
+<li>Further Improvements</li>
+</ul>
 
 <h4>v0.8.0 (TestFlight 1.2)</h4>
 <ul>
-<li>Added Circle Pad!!!</li>
+<li>Added Circle Pad!</li>
 <li>Decreased amount of physics calculations to increase overall performance.</li>
 <li>Edited various parameters i.e.- Health,Attack,Defense, etc</li>
 <li>Added Side Quest</li>
