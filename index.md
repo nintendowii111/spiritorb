@@ -27,7 +27,11 @@
 
 <h4>v0.8.6 (TestFlight 1.3.0.3)</h4>
 <ul>
-<li>Further Improvements</li>
+<li>Altered internal resolution to use more screen space</li>
+<li>Revamped HUD</li>
+<li>Further enemy/level balancements</li>
+<li>Further polishing</li>
+<li>Moved on screen buttons </li>
 </ul>
 
 <h4>v0.8.0 (TestFlight 1.2)</h4>
