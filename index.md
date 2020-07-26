@@ -6,7 +6,7 @@
 
 <br>
 
-![metaimage12](/pic1.png)
+<img src="pic1.png" alt="meta1">
 
 ![metaimage10](/pic2.png)
 
