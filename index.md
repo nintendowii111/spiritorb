@@ -77,8 +77,6 @@
 <ul>
 <li>M.A.Duncan</li>
 </ul>
-  
-<li>Quxios - QABS & Q-based Plugins</li>
 
 <h4>Plugin Credits</h4>
 
