@@ -72,17 +72,22 @@
 <br>
 
 <h2>Credits (May Change)</h2>
+
+<h4>Lead Developer</h4>
+<ul>
+<li>M.A.Duncan</li>
+</ul>
+  
+<li>Quxios - QABS & Q-based Plugins</li>
+
 <h4>Plugin Credits</h4>
 
 <ul>
 <li>Quxios - QABS & Q-based Plugins</li>
 <li>SumRndmDde - SRD Plugins</li>
-<li>Christian Schicho Fullscreen Plugin</li>
 <li>Yanfly Engine Plugins - YEP based Plugins</li>
 <li>Masked - MBS based Plugins</li>
 <li>Fallen Angel Olivia - MapDisplay Plugin</li>
-<li>Companion Wulf - CustomTitle Plugin</li>
-<li>Ventiqu-2016 - SplashScreen Plugin (Unused)</li>
 <li>Aloe Guvner - Mobile Virtualbuttons</li>
 <li>Iavra - TextsSound & SaveSystem</li>
 </ul>
@@ -112,5 +117,7 @@
 ![metaimage5](/pic2.jpg)
 
 <br>
+
+<h4 style="text-align:left"><a href="https://www.spiritorbgame.com/privacypolicy">Privacy Policy</a></h4>
 
 
