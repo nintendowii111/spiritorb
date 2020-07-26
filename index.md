@@ -5,19 +5,20 @@
 <h1 style="text-align:center"><a href="https://testflight.apple.com/join/b25OmrY6">Try the iOS TestFlight!</a></h1>
 
 <br>
+![metaimage11](/meta_launch.png)
 
-![metaimage11](/pic1.jpg)
 
-![metaimage10](/pic2.jpg)
 
 <h2>Controls (iOS)</h2>
 
 <p>The User Interface is setup with tradiontal console controls. A New Circle-Pad is to the left and "A" "B" keys to the right.</p>
 <p>When in a menu (without console buttons) double tapping with two fingers brings you back OR pressing with one finger and tapping with a second!</p>
 
-![metaimage5](/pic3.jpg)
+![metaimage11](/pic1.jpg)
 
-![metaimage8](/pic4.jpg)
+![metaimage10](/pic2.jpg)
+
+
 
 <h2>Changelog</h2>
 
@@ -57,9 +58,9 @@
 
 <a href="https://www.spiritorbgame.com/changelog">Full Changelog</a>
 
-![metaimage9](/meta_5.png)
+![metaimage5](/pic3.jpg)
 
-![metaimage11](/meta_10.png)
+![metaimage8](/pic4.jpg)
 
 <br>
 
