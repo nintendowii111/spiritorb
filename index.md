@@ -6,18 +6,18 @@
 
 <br>
 
-![metaimage12](/meta_launch.png)
+![metaimage12](/pic1.png)
 
-![metaimage10](/meta_8.png)
+![metaimage10](/pic2.png)
 
 <h2>Controls (iOS)</h2>
 
 <p>The User Interface is setup with tradiontal console controls. A New Circle-Pad is to the left and "A" "B" keys to the right.</p>
 <p>When in a menu (without console buttons) double tapping with two fingers brings you back OR pressing with one finger and tapping with a second!</p>
 
-![metaimage5](/meta_3.png)
+![metaimage5](/pic3.png)
 
-![metaimage8](/meta_1.png)
+![metaimage8](/pic4.png)
 
 <h2>Changelog</h2>
 
