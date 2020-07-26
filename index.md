@@ -75,8 +75,6 @@
 ![metaimage10](/pic3.jpg)
 
 <br>
-<br>
-
 
 ![metaimage8](/pic4.jpg)
 
