@@ -10,10 +10,10 @@
 
 
 
-<h2>Controls (iOS)</h2>
+<h2>Prepare for an Adventure! (iOS)</h2>
 
-<p>The User Interface is setup with tradiontal console controls. A New Circle-Pad is to the left and "A" "B" keys to the right.</p>
-<p>When in a menu (without console buttons) double tapping with two fingers brings you back OR pressing with one finger and tapping with a second!</p>
+<p>Embark on an unknown adventure in a land to find the SpiritOrbs </p>
+<p>which hold power that no-one has ever been able to acquire.</p>
 
 ![metaimage11](/pic1.jpg)
 
@@ -61,7 +61,7 @@
 
 ![metaimage5](/pic3.jpg)
 
-![metaimage8](/pic4.jpg)
+
 
 <br>
 
@@ -100,3 +100,5 @@
 </ul>
 
 <a href="https://github.com/mattgraham/midnight/blob/master/LICENCE">Web Jekyll theme by Matt Graham</a>
+
+![metaimage8](/pic4.jpg)
