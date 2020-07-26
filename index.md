@@ -60,7 +60,7 @@
 
 <a href="https://www.spiritorbgame.com/changelog">Full Changelog</a>
 
-![metaimage10](/pic2.jpg)
+![metaimage10](/pic3.jpg)
 
 
 <br>
@@ -103,7 +103,7 @@
 
 <br>
 
-![metaimage5](/pic3.jpg)
+![metaimage5](/pic2.jpg)
 
 <br>
 
