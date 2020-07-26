@@ -19,8 +19,11 @@
 <br>
 
 <h2>Changelog</h2>
+
 <h4>v0.9.0 (TestFlight 1.4)</h4>
+<ul>
 <li>Coming Soon</li>
+</ul>
 
 <h4>v0.8.6 (TestFlight 1.3.0.3)</h4>
 <ul>
