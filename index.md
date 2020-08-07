@@ -22,7 +22,15 @@
 
 <h4>v0.9.0 (TestFlight 1.4)</h4>
 <ul>
-<li>Coming Soon</li>
+<li>Added Tutorial</li>
+<li>Added Level Bar to HUD</li>
+<li>Changed transparency of input images</li>
+<li>Added "Back" buttons to Menus and Submenus</li>
+<li>Tapping a Menu button no longer requires an additional tap for confirmation</li>
+<li>Fixed game window from being scrollable</li>
+<li>Changed BOSS HP Bar to better suit UI</li>
+<li>Bug Fixes</li>
+<li>Potential performance increases with WKWebView</li>
 </ul>
 
 <h4>v0.8.6 (TestFlight 1.3.0.3)</h4>
