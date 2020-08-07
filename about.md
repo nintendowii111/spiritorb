@@ -4,7 +4,7 @@ title: "Privacy Policy"
 permalink: /privacypolicy
 ---
 
-<p>Please note that I am not a lawyer. I am an ameature iOS developer simply looking to test and host my free app on the Apple AppStore. If their are any errors or issues with this Privacy Policy, please understand my situation. Thank you!<p>
+<p>Please note that I am not a lawyer. I am an amateur iOS developer simply looking to test and host my free app on the Apple AppStore. If their are any errors or issues with this Privacy Policy, please understand my situation. Thank you!<p>
 
 <h2>Privacy Policy</h2> <p>
                     Michael Duncan built the SpiritOrb app as
