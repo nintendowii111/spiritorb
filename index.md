@@ -29,6 +29,7 @@
 <li>Tapping a Menu button no longer requires an additional tap for confirmation</li>
 <li>Fixed game window from being scrollable</li>
 <li>Changed BOSS HP Bar to better suit UI</li>
+<li>Choice Buttons are now easier to press</li>
 <li>Bug Fixes</li>
 <li>Potential performance increases with WKWebView</li>
 </ul>
