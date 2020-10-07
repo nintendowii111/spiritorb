@@ -154,3 +154,12 @@
 <h4 style="text-align:left"><a href="https://www.spiritorbgame.com/privacypolicy">Privacy Policy</a></h4>
 
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-179984693-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-179984693-1');
+</script>
