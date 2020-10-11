@@ -6,7 +6,7 @@
 
 <br>
 
-<!--<h1 style="text-align:center"><a href="http://play.spiritorbgame.com">Play in Browser(WIP)</a></h1>-->
+<h1 style="text-align:center"><a href="http://play.spiritorbgame.com">Play in Browser(WIP)</a></h1>
 
 
 <br>
@@ -16,7 +16,7 @@
 <br>
 
 
-<iframe width="960" height="720" src="http://www.play.spiritorbgame.com" frameborder="0" allowfullscreen></iframe>
+<!--<iframe width="960" height="720" src="http://www.play.spiritorbgame.com" frameborder="0" allowfullscreen></iframe>-->
 
 <br>
 
