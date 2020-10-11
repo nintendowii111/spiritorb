@@ -6,7 +6,7 @@
 
 <br>
 
-<h1 style="text-align:center"><a href="http://play.spiritorbgame.com">Play in Browser(WIP)</a></h1>
+<h1 style="text-align:center"><a href="http://play.spiritorbgame.com">Play Now</a></h1>
 
 
 <br>
