@@ -6,6 +6,49 @@ permalink: /changelog
 
 <h2>Changelog</h2>
 
+<h4>v0.8.6 (TestFlight 1.3.0.3)</h4>
+<ul>
+<li>Altered internal resolution to use more screen space</li>
+<li>Revamped HUD</li>
+<li>Further enemy/level balancements</li>
+<li>Further polishing</li>
+<li>Moved on screen buttons </li>
+</ul>
+
+<h4>v0.8.0 (TestFlight 1.2)</h4>
+<ul>
+<li>Added Circle Pad!</li>
+<li>Decreased amount of physics calculations to increase overall performance.</li>
+<li>Edited various parameters i.e.- Health,Attack,Defense, etc</li>
+<li>Added Side Quest</li>
+<li>Made adjustments to maps</li>
+<li>Fixed bug where player wouldn't be transferred to map on event touch</li>
+<li>Added new Potion</li>
+<li>Adjusted Boss Battle 1</li>
+<li>Added new music</li>
+<li>Fixed bug where the entire game window could be scrolled by the user</li>
+<li>Added Splash Screen</li>
+</ul>
+
+<h4>v0.7.9</h4>
+<ul>
+<li>Added New Enemy-Ghost</li>
+<li>Added New Enemy-Skele</li>
+<li>Added phases to Boss1 Battle</li>
+<li>Added new Leveling system</li>
+<li>Adjusted in-game Menus</li>
+<li>Adjusted weopon values</li>
+<li>Adjusted Exp parameters</li>
+<li>Adjusted Exp gained from enemies</li>
+<li>Added Fade effect when closing menus</li>
+<li>Added ability to reload save upon gameover</li>
+</ul>
+
+<h4>v0.7.0</h4>
+<ul>
+<li>TestFlight Preparation</li>
+</ul>
+
 <h4>v0.6.3a</h4>
 
 <ul>
