@@ -14,7 +14,7 @@
 
 
 
-
+<br>
 
 <h2 style="text-align:center">Embark on an unknown adventure in a land to find the SpiritOrbs which hold power that no-one has ever been able to acquire.</h2>
 
@@ -47,7 +47,7 @@
 <li>Potential performance increases with WKWebView</li>
 </ul>
 
-<a href="https://www.spiritorbgame.com/changelog">Full Changelog</a>
+<a href="https://nintendowii111.github.io/spiritorb/changelog">Full Changelog</a>
 
 <br>
 
@@ -116,7 +116,7 @@
 
 <br>
 
-<h4 style="text-align:left"><a href="https://www.spiritorbgame.com/privacypolicy">Privacy Policy</a></h4>
+<h4 style="text-align:left"><a href="https://nintendowii111.github.io/spiritorb/privacypolicy">Privacy Policy</a></h4>
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
