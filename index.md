@@ -20,7 +20,7 @@
 
 <h1 style="text-align:center"><a href="http://play.spiritorbgame.com">Play in Browser</a></h1>
 
-<!--<iframe width="960" height="720" src="http://www.play.spiritorbgame.com" frameborder="0" allowfullscreen></iframe>-->
+<!--<iframe width="960" height="720" src="http://spiritgames.orgfree.com/" frameborder="0" allowfullscreen></iframe>-->
 
 <br>
 
