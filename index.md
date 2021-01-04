@@ -1,11 +1,12 @@
 ![metaimage1](/title.png)
 <br>
-<h2 style="text-align:center">SpiritOrb is an action RPG game for iPhone and Web Browsers!.</h2>
+<h2 style="text-align:center">SpiritOrb is an action RPG game for Web Browsers!(iPhone coming soon).</h2>
 
 
 
 <!--
 <h1 style="text-align:center"><a href="https://testflight.apple.com/join/b25OmrY6">Join iOS TestFlight!</a></h1>
+<h1 style="text-align:center"><a href="http://spiritgames.orgfree.com/">Play in Browser</a></h1>
 <br>
 <br>
 //-->
@@ -13,9 +14,9 @@
 <h2 style="text-align:center">Embark on an unknown adventure in a land to find the SpiritOrbs which hold power that no-one has ever been able to acquire.</h2>
 <br>
 
-<h1 style="text-align:center"><a href="http://spiritgames.orgfree.com/">Play in Browser</a></h1>
 
-<!--<iframe width="960" height="720" src="http://spiritgames.orgfree.com/" frameborder="0" allowfullscreen></iframe>-->
+
+<iframe width="960" height="720" src="https://spiritgames.orgfree.com/" frameborder="0" allowfullscreen></iframe>
 
 <br>
 
