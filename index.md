@@ -47,7 +47,7 @@ $(function(){
 <br>
 <body>
     <div class="center">
-        <iframe src="https://www.spiritgames.orgfree.com"></iframe>
+        <iframe src="https://spiritgames.orgfree.com" width=960 height="720"></iframe>
     </div>
 </body>
 
