@@ -2,11 +2,7 @@
 <br>
 <h2 style="text-align:center">SpiritOrb is an action RPG game for Web Browsers!(iPhone coming soon).</h2>
 
-<body>
-    <div class="center">
-        <iframe src="https://www.spiritgames.orgfree.com"></iframe>
-    </div>
-</body>
+
 
 
 <!--
@@ -28,11 +24,6 @@
 <br>
 ![metaimage5](/pic2.jpg)
 <br>
-//-->
-
-<h2 style="text-align:center">Embark on an unknown adventure in a land to find the SpiritOrbs which hold power that no-one has ever been able to acquire.</h2>
-<br>
-
 <body>
     <div align="center">
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js"></script>
@@ -50,6 +41,17 @@ $(function(){
 <div id="iframeHolder"></div>
 </div>
 </body>
+//-->
+
+<h2 style="text-align:center">Embark on an unknown adventure in a land to find the SpiritOrbs which hold power that no-one has ever been able to acquire.</h2>
+<br>
+<body>
+    <div class="center">
+        <iframe src="https://www.spiritgames.orgfree.com"></iframe>
+    </div>
+</body>
+
+<br>
     
 
 
