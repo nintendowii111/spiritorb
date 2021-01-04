@@ -15,6 +15,19 @@
 <p align="center"><iframe width="960" height="720" src="https://spiritgames.orgfree.com/" frameborder="0" allowfullscreen></iframe></p>
 <br>
 <br>
+<br>
+![metaimage12](/meta_launch.png)
+<br>
+![metaimage11](/pic1.jpg)
+<br>
+<br>
+![metaimage10](/pic3.jpg)
+<br>
+![metaimage8](/pic4.jpg)
+<br>
+<br>
+![metaimage5](/pic2.jpg)
+<br>
 //-->
 
 <h2 style="text-align:center">Embark on an unknown adventure in a land to find the SpiritOrbs which hold power that no-one has ever been able to acquire.</h2>
@@ -40,15 +53,7 @@ $(function(){
     
 
 
-<br>
 
-![metaimage12](/meta_launch.png)
-
-<br>
-
-![metaimage11](/pic1.jpg)
-
-<br>
 
 <h2>Latest Update</h2>
 
@@ -68,16 +73,7 @@ $(function(){
 
 <a href="https://nintendowii111.github.io/spiritorb/changelog">Full Changelog</a>
 
-<br>
 
-![metaimage10](/pic3.jpg)
-
-<br>
-
-![metaimage8](/pic4.jpg)
-
-
-<br>
 
 <h2>Credits (May Change)</h2>
 
@@ -129,11 +125,7 @@ $(function(){
 
 <a href="https://github.com/mattgraham/midnight/blob/master/LICENCE">Web Jekyll theme by Matt Graham</a>
 
-<br>
 
-![metaimage5](/pic2.jpg)
-
-<br>
 
 <h4 style="text-align:left"><a href="https://nintendowii111.github.io/spiritorb/privacypolicy">Privacy Policy</a></h4>
 
