@@ -16,7 +16,7 @@
 
 
 
-<iframe width="960" height="720" src="https://spiritgames.orgfree.com/" frameborder="0" allowfullscreen></iframe>
+<p align="center"><iframe width="960" height="720" src="https://spiritgames.orgfree.com/" frameborder="0" allowfullscreen></iframe></p>
 
 <br>
 
