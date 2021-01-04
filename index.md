@@ -22,7 +22,7 @@
 $(function(){
     $('#button').click(function(){ 
         if(!$('#iframe').length) {
-                $('#iframeHolder').html('<iframe id="iframe" src="https://spiritgames.orgfree.com" width="960" height="720"></iframe>');
+                $('#iframeHolder').html('<p align="center"><iframe src="https://www.spiritgames.orgfree.com/" width=960 height="720"></iframe></p>');
         }
     });   
 });
