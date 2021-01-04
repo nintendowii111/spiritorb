@@ -41,8 +41,7 @@ $(function(){
     });   
 });
 </script>
-<button id="button">Play in Browser</button>
-        <button class="button">30px</button>
+<button id="button">Play in Browser, class="button">30px</button>
 <div id="iframeHolder"></div>
 </div>
 </body>
