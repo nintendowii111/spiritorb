@@ -10,11 +10,6 @@
 <br>
 //-->
 
-
-
-
-<br>
-
 <h2 style="text-align:center">Embark on an unknown adventure in a land to find the SpiritOrbs which hold power that no-one has ever been able to acquire.</h2>
 <br>
 
