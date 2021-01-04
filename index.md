@@ -14,6 +14,9 @@
 
 <h2 style="text-align:center">Embark on an unknown adventure in a land to find the SpiritOrbs which hold power that no-one has ever been able to acquire.</h2>
 <br>
+
+<body>
+    <div align="center">
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js"></script>
 <script type="text/javascript">
 $(function(){
@@ -25,10 +28,11 @@ $(function(){
 });
 </script>
  
-<button id="button">Button</button>
+<button id="button">Play in Browser</button>
 <div id="iframeHolder"></div>
-
-
+</div>
+</body>
+    
 
 
 <br>
