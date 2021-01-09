@@ -70,7 +70,7 @@ $(function(){
 
 <h4>Lead Developer</h4>
 <ul>
-<li>nintendowii111</li>
+<li>M.A.Duncan</li>
 </ul>
 
 <h4>Plugin Credits</h4>
