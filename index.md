@@ -53,10 +53,7 @@ $(function(){
 <li>"ARROW KEYS" = MOVE CHARACTER</li>
 <li>"Z" = ENTER / ATTACK</li>
 <li>"X" = BACK / MENU</li>
-</ul>    
-
-
-<br>
+</ul>
 
 <h2>Latest Update</h2>
 
