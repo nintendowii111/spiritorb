@@ -48,6 +48,16 @@ $(function(){
 
 <br>
 
+<h3>Controls</h3>
+<ul>
+<li>"ARROW KEYS" = MOVE CHARACTER</li>
+<li>"Z" = ENTER / ATTACK</li>
+<li>"X" = BACK / MENU</li>
+</ul>    
+
+
+<br>
+
 <h2>Latest Update</h2>
 
 <h4>v0.9.1 Alpha (Jan.2020)</h4>
