@@ -70,7 +70,7 @@ $(function(){
 
 <h4>Lead Developer</h4>
 <ul>
-<li>M.A.Duncan</li>
+<li>nintendowii111</li>
 </ul>
 
 <h4>Plugin Credits</h4>
@@ -119,7 +119,7 @@ $(function(){
 
 
 
-<h4 style="text-align:left"><a href="https://nintendowii111.github.io/spiritorb/privacypolicy">Privacy Policy</a></h4>
+<!--<h4 style="text-align:left"><a href="https://nintendowii111.github.io/spiritorb/privacypolicy">Privacy Policy</a></h4>//-->
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
