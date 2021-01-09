@@ -50,18 +50,16 @@ $(function(){
 
 <h2>Latest Update</h2>
 
-<h4>v0.9.0 (TestFlight 1.4)</h4>
+<h4>v0.9.1 Alpha (Web)</h4>
 <ul>
-<li>Added Tutorial</li>
-<li>Added Level Bar to HUD</li>
-<li>Changed transparency of input images</li>
-<li>Added "Back" buttons to Menus and Submenus</li>
-<li>Tapping a Menu button no longer requires an additional tap for confirmation</li>
-<li>Fixed game window from being scrollable</li>
-<li>Changed BOSS HP Bar to better suit UI</li>
-<li>Choice Buttons are now easier to press</li>
-<li>Bug Fixes</li>
-<li>Potential performance increases with WKWebView</li>
+<li>Added BOSS 2</li>
+<li>Added New Intro Sequnce (WIP)</li>
+<li>Small AI updates</li>
+<li>Added (some) Death animations</li>
+<li>Added Level Menu to Options</li>
+<li>Added New song: Imaginery - Broken Elegance & Nomyn</li>
+<li>Redone Initial Tutorial Quest</li>
+<li>Added first lore</li>
 </ul>
 
 <a href="https://nintendowii111.github.io/spiritorb/changelog">Full Changelog</a>
@@ -106,7 +104,8 @@ $(function(){
 </ul>
 <h4>Music Credits</h4>
 <ul>
-<li>Benjamin Carr - Aqua Fort, A sinister place (waiting for confirmation)</li>
+<li>Imaginery - Broken Elegance & Nomyn</li>
+<li>Benjamin Carr - Aqua Fort, A sinister place</li>
 <li>Aaron Krogh - The lonely Amazon</li>
 <li>Murray Atkinson CT_Nina, CT_Yaichi</li>
 <li>Jeremiah "McTricky" George</li>
