@@ -6,7 +6,7 @@ permalink: /changelog
 
 <h2>Changelog</h2>
 
-<h4>v0.9.0 (TestFlight 1.4)</h4)
+<h4>v0.9.0 (TestFlight 1.4)</h4>
 <ul>
 <li>Added Tutorial</li>
 <li>Added Level Bar to HUD</li>
