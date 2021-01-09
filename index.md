@@ -50,7 +50,7 @@ $(function(){
 
 <h2>Latest Update</h2>
 
-<h4>v0.9.1 Alpha (Web)</h4>
+<h4>v0.9.1 Alpha (Jan.2020)</h4>
 <ul>
 <li>Added BOSS 2</li>
 <li>Added New Intro Sequnce (WIP)</li>
