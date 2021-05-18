@@ -56,7 +56,7 @@ $(function(){
 </ul>
 
 <h2>Latest Update</h2>
-
+<br>
 <h4>v0.9.5 Alpha (May.2021)</h4>
 <ul>
 <li>New Title Menu!</li>
