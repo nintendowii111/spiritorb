@@ -1,6 +1,6 @@
 ![metaimage1](/title.png)
 <br>
-<h2 style="text-align:center">SpiritOrb is an action RPG game for Web Browsers!(iPhone coming soon).</h2>
+<h2 style="text-align:center">SpiritOrb is an action top-down RPG.</h2>
 
 
 
