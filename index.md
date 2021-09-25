@@ -1,4 +1,4 @@
-![metaimage1](/Spirit-Orb.png)
+![metaimage1](/title_new.png)
 <br>
 <h2 style="text-align:center">SpiritOrb is an indie action top-down RPG.</h2>
 
