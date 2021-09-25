@@ -57,7 +57,13 @@ $(function(){
 
 <h2>Latest Update</h2>
 <br>
-<h4>v0.9.5 Alpha (May.2021)</h4>
+<h4>v0.9.3 Alpha (Sept.2021)</h4>
+<ul>
+<li></li>
+<li></li>
+</ul>
+
+<h4>v0.9.2 Alpha (May.2021)</h4>
 <ul>
 <li>New Title Menu!</li>
 <li>Original Select/Back button SE's</li>
