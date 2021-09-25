@@ -59,8 +59,15 @@ $(function(){
 <br>
 <h4>v0.9.3 Alpha (Sept.2021)</h4>
 <ul>
-<li></li>
-<li></li>
+<li>Added Combat Animations!</li>
+<li>Added Sword Animation</li>
+<li>Added Bow Animation</li>
+<li>Added Randomly Generated Dungeon Sub-Quest</li>
+<li>New Title Image</li>
+<li>Fixed walking animation not going back to idle sprite when stopped moving</li>
+<li>Changed Enemy Sprites to 'tall' Animations</li>
+<li>Changed initial Quest to be less intrusive</li>
+<li>Fixed various bugs</li>
 </ul>
 
 <h4>v0.9.2 Alpha (May.2021)</h4>
