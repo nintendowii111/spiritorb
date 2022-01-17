@@ -57,6 +57,14 @@ $(function(){
 
 <h2>Latest Update</h2>
 <br>
+<h4>v0.9.5 Alpha (Jan.2022)</h4>
+<ul>
+<li>Added Stamina System</li>
+<li>Redid Starting Sequence</li>
+<li>Various Changes / Improvments</li>
+<li>Removed Quest System</li>
+</ul>
+
 <h4>v0.9.3 Alpha (Sept.2021)</h4>
 <ul>
 <li>Added Combat Animations!</li>
