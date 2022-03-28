@@ -152,12 +152,7 @@ $(function(){
 <li>FULMINIS-ICTUS - Embarking on an Epic Journey, Eastern Winds, Drama</li>
 </ul>
 
-<a href="https://github.com/mattgraham/midnight/blob/master/LICENCE">Web Jekyll theme by Matt Graham</a>
-
-
-
 <!--<h4 style="text-align:left"><a href="https://nintendowii111.github.io/spiritorb/privacypolicy">Privacy Policy</a></h4>//-->
-
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179984693-1"></script>
