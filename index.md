@@ -78,27 +78,6 @@ $(function(){
 <li>Fixed various bugs</li>
 </ul>
 
-<h4>v0.9.2 Alpha (May.2021)</h4>
-<ul>
-<li>New Title Menu!</li>
-<li>Original Select/Back button SE's</li>
-<li>New Sword Animation (still WIP)</li>
-<li>Fixed bug where sword/arrow sprites would appear at players feet</li>
-<li>Further Improvements</li>
-</ul>
-
-<h4>v0.9.1 Alpha (Jan.2020)</h4>
-<ul>
-<li>Added BOSS 2</li>
-<li>Added New Intro Sequnce (WIP)</li>
-<li>Small AI updates</li>
-<li>Added (some) Death animations</li>
-<li>Added Level Menu to Options</li>
-<li>Added New song: Imaginery - Broken Elegance & Nomyn</li>
-<li>Redone Initial Tutorial Quest</li>
-<li>Added first lore</li>
-</ul>
-
 <a href="https://nintendowii111.github.io/spiritorb/changelog">Full Changelog</a>
 
 
