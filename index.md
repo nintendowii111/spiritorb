@@ -56,7 +56,6 @@ $(function(){
 </ul>
 
 <h2>Latest Update</h2>
-<br>
 <ul>
 <li>Fixed "failed to load asset" errors.</li>
 </ul>
