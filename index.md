@@ -57,6 +57,9 @@ $(function(){
 
 <h2>Latest Update</h2>
 <br>
+<ul>
+<li>Fixed "failed to load asset" errors.</li>
+</ul>
 <h4>v0.9.5 Alpha (Jan.2022)</h4>
 <ul>
 <li>Added Stamina System</li>
