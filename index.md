@@ -56,14 +56,15 @@ $(function(){
 </ul>
 
 <h2>Latest Update</h2>
-<h4>v0.9.6 Alpha (Soon!)</h4>
+<h4>v0.9.5-1 Alpha (Feb.2024)</h4>
 <ul>
 <li>Redid intro sequence (again..)</li>
 <li>Fixed a bug that would cause the Health HUD to not appear when starting a new game after a save file was made prior</li>
 <li>Removed positional saving and added ability to save simply from the menu</li>
-<li>Added custom saving script to fix issues with battle system</li>
+<li>Added custom saving script to fix issues with battle system throwing errors</li>
 <li>Fixed "failed to load asset" errors</li>
 <li>Various other bug fixes and changes</li>    
+<li>More to Come</li>
 </ul>
 <h4>v0.9.5 Alpha (Jan.2022)</h4>
 <ul>
