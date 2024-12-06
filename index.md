@@ -2,30 +2,6 @@
 <br>
 <h2 style="text-align:center">SpiritOrb is an indie action top-down RPG.</h2>
 
-
-
-
-<!--
-<h1 style="text-align:center"><a href="https://testflight.apple.com/join/b25OmrY6">Join iOS TestFlight!</a></h1>
-<h1 style="text-align:center"><a href="http://spiritgames.orgfree.com/">Play in Browser</a></h1>
-<p align="center"><iframe width="960" height="720" src="https://spiritgames.orgfree.com/" frameborder="0" allowfullscreen></iframe></p>
-<br>
-<br>
-<br>
-![metaimage12](/meta_launch.png)
-<br>
-![metaimage11](/pic1.jpg)
-<br>
-<br>
-![metaimage10](/pic3.jpg)
-<br>
-![metaimage8](/pic4.jpg)
-<br>
-<br>
-![metaimage5](/pic2.jpg)
-<br>
-//-->
-
 <h2 style="text-align:center">Embark on an unknown adventure in a land to find the SpiritOrbs which hold power that no-one has ever been able to acquire.</h2>
 <br>
 
@@ -140,14 +116,12 @@ $(function(){
 <li>FULMINIS-ICTUS - Embarking on an Epic Journey, Eastern Winds, Drama</li>
 </ul>
 
-<!--<h4 style="text-align:left"><a href="https://nintendowii111.github.io/spiritorb/privacypolicy">Privacy Policy</a></h4>//-->
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-179984693-1"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-63VYP00FXN"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-179984693-1');
+  gtag('config', 'G-63VYP00FXN');
 </script>
