@@ -5,18 +5,18 @@
 <h2 style="text-align:center">Embark on an unknown adventure in a land to find the SpiritOrbs which hold power that no-one has ever been able to acquire.</h2>
 <br>
 
-<body>
-    <div align="center">
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js"></script>
-<script type="text/javascript">
-$(function(){
-    $('#button').click(function(){ 
-        if(!$('#iframe').length) {
-                $('#iframeHolder').html('<iframe src="https://spiritgames.orgfree.com" width=960 height="720"></iframe>');
-        }
-    });   
-});
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-63VYP00FXN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-63VYP00FXN');
 </script>
+
+<body>
+  
 <button id="button" style="font-size : 20px; width: 200px">Play in Browser</button>
 <div id="iframeHolder"></div>
 </div>
@@ -115,13 +115,3 @@ $(function(){
 <li>Darren Curtis - Timeless Ruins, Laybrinth of Lost Dreams, Drifting through space, Fireside tales</li>
 <li>FULMINIS-ICTUS - Embarking on an Epic Journey, Eastern Winds, Drama</li>
 </ul>
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-63VYP00FXN"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-63VYP00FXN');
-</script>
