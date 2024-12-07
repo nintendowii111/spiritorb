@@ -1,11 +1,4 @@
-![metaimage1](/title_new.png)
-<br>
-<h2 style="text-align:center">SpiritOrb is an indie action top-down RPG.</h2>
-
-<h2 style="text-align:center">Embark on an unknown adventure in a land to find the SpiritOrbs which hold power that no-one has ever been able to acquire.</h2>
-<br>
-
-<!-- Google tag (gtag.js) -->
+<head><!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-63VYP00FXN"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -14,6 +7,14 @@
 
   gtag('config', 'G-63VYP00FXN');
 </script>
+</head>
+
+![metaimage1](/title_new.png)
+<br>
+<h2 style="text-align:center">SpiritOrb is an indie action top-down RPG.</h2>
+
+<h2 style="text-align:center">Embark on an unknown adventure in a land to find the SpiritOrbs which hold power that no-one has ever been able to acquire.</h2>
+<br>
 
 <script type="text/javascript">
 $(function(){
