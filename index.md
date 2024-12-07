@@ -47,26 +47,6 @@ $(function(){
 <li>Various other bug fixes and changes</li>    
 <li>More to Come</li>
 </ul>
-<h4>v0.9.5 Alpha (Jan.2022)</h4>
-<ul>
-<li>Added Stamina System</li>
-<li>Redid Starting Sequence</li>
-<li>Various Changes / Improvments</li>
-<li>Removed Quest System</li>
-</ul>
-
-<h4>v0.9.3 Alpha (Sept.2021)</h4>
-<ul>
-<li>Added Combat Animations!</li>
-<li>Added Sword Animation</li>
-<li>Added Bow Animation</li>
-<li>Added Randomly Generated Dungeon Sub-Quest</li>
-<li>New Title Image</li>
-<li>Fixed walking animation not going back to idle sprite when stopped moving</li>
-<li>Changed Enemy Sprites to 'tall' Animations</li>
-<li>Changed initial Quest to be less intrusive</li>
-<li>Fixed various bugs</li>
-</ul>
 
 <a href="https://nintendowii111.github.io/spiritorb/changelog">Full Changelog</a>
 
