@@ -15,7 +15,15 @@
   gtag('config', 'G-63VYP00FXN');
 </script>
 
-<body>
+<script type="text/javascript">
+$(function(){
+    $('#button').click(function(){ 
+        if(!$('#iframe').length) {
+                $('#iframeHolder').html('<iframe src="https://spiritgames.orgfree.com" width=960 height="720"></iframe>');
+        }
+    });   
+});
+</script>
 <button id="button" style="font-size : 20px; width: 200px">Play in Browser</button>
 <div id="iframeHolder"></div>
 </div>
